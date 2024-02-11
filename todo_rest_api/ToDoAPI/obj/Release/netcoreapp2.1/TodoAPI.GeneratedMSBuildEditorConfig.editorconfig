@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TodoAPI
+build_property.ProjectDir = C:\Users\user\source\repos\todo_rest_api\ToDoAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
